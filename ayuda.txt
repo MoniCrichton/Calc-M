@@ -1,0 +1,12 @@
+hola quiero que te bases en las siguientes html, css y js. 
+a partir de eso desarrolles codigo para hacer una calculadora que no sea igual a esta. te digo las caracteristicas que debe tener background-color del contenedor y signo =: #EEEDE7
+botton-color de los botones (menos el =): #F0F0E8
+font-color Números y signo +/-: # 885E58. la letra C font-color #E56997
+botton-color #B27DB2 para los restantes botones
+Ccon respecto a la distribucion tiene el visor del alto de dos de las lineas de botones. 
+el contenendor de botones tiene una grilla de 4 x 5 
+en primera linea va C, raiz cuadrada, % y /. 
+en la segunda linea 7, 8 ,9 y x. 
+en la tercera linea 4,5,6 y -. 
+en la cuarta linea 1,2,3, y +. 
+en la ultima linea +/-, 0, punto decimal , =
